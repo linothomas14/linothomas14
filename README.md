@@ -1,8 +1,8 @@
 # Hi there 👋
 ### My name is Yulyano Thomas Djaya, you can call me Lino
 
-- 🔭 I’m Informatics Engineering Student at Gunadarma University
-- 🌱 I’m currently learning Cloud technology for backend apps.
+- 🔭 I’m Informatic Engineering Student at Gunadarma University
+- 🌱 I’m currently learning Cloud technology for backend apps .
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yulyano-thomas-djaya-8326b6142/)
  
 <p align="left">
